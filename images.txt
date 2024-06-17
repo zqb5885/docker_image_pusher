@@ -3,3 +3,4 @@ ubuntu:22.04
 httpd:latest
 nginx:latest
 busybox:1.28
+busybox:latest
