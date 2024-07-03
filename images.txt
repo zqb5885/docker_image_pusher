@@ -4,3 +4,12 @@ httpd:latest
 nginx:latest
 busybox:1.28
 busybox:latest
+controller:v1.8.0
+php:8-apache
+metrics-server:v0.6.3
+cadvisor:v0.47.0
+dashboard:v2.7.0
+metrics-scraper:v1.0.8
+nginx:1.20
+nginx:1.22
+mysql:8.0
