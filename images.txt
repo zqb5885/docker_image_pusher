@@ -4,7 +4,6 @@ httpd:latest
 nginx:latest
 busybox:1.28
 busybox:latest
-controller:v1.8.0
 php:8-apache
 metrics-server:v0.6.3
 cadvisor:v0.47.0
